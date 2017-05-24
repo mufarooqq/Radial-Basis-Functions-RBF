@@ -1,5 +1,6 @@
 # Radial-Basis-Functions-RBF-
 MATLAB implementations of different learning methods for Radial Basis Functions (RBF)
+Dataset Used: MNIST (http://yann.lecun.com/exdb/mnist/)
 
 Learning Methods:
 1. KMeans Centres + Least Mean Squares (LMS) for Weights
